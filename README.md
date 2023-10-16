@@ -3,3 +3,4 @@
 Afnan Aldawsari
 
 data analyst
+Eastern
